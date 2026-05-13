@@ -4,7 +4,7 @@
 
 一款精美的在线婚礼电子邀请函生成工具，支持**单人定制**与**Excel 批量生成**，内置 6 种国风/现代风格模板，一键导出高清 PNG 图片。
 
-[在线预览](https://your-demo-url.com) · [功能特性](#-功能特性) · [快速开始](#-快速开始) · [使用指南](#-使用指南)
+· [功能特性](#-功能特性) · [快速开始](#-快速开始) · [使用指南](#-使用指南)
 
 </div>
 
@@ -22,6 +22,23 @@
 | 🌸**浪漫花卉**   | `romantic`      | 粉色系花卉装饰，温馨浪漫             |
 | ✨**简约优雅**   | `elegant`       | 米白底色，极简线条设计               |
 | 🖌️**水墨丹青** | `chinoiserie`   | 宣纸底纹，水墨国画意境               |
+
+### 🖼️ 风格预览
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>🏮 经典中国风</strong></td>
+      <td align="center"><strong>🌿 森系小清新</strong></td>
+      <td align="center"><strong>✨ 简约优雅</strong></td>
+    </tr>
+    <tr>
+      <td><img src="婚礼邀请函-中式.png" alt="经典中国风" width="280"/></td>
+      <td><img src="婚礼邀请函-小清新.png" alt="森系小清新" width="280"/></td>
+      <td><img src="婚礼邀请函-简约.png" alt="简约优雅" width="280"/></td>
+    </tr>
+  </table>
+</div>
 
 ### 📸 核心功能
 
